@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/moufid4/WeatherSPA/issues"
   },
-  "homepage": "https://github.com/moufid4/WeatherSPA"
+  "homepage": "https://github.com/moufid4/WeatherSPA",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
