@@ -2,15 +2,14 @@
   "name": "WeatherSPA",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "dependencies": {
-    "finalhandler": "^0.3.6",
-    "serve-static": "^1.9.2"
+    "http-server": "^0.8.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
