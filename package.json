@@ -1,0 +1,24 @@
+{
+  "name": "WeatherSPA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "http-server": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moufid4/WeatherSPA.git"
+  },
+  "author": "moufid larbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moufid4/WeatherSPA/issues"
+  },
+  "homepage": "https://github.com/moufid4/WeatherSPA"
+}
